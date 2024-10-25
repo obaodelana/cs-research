@@ -1,9 +1,11 @@
 ---
-title: Oba's Research Space
+title: README
 description: This website will have my research and reading logs. Stay tuned!
 date: 2024-10-24
 ---
+I'm currently researching on [[Neural Networks]]. The purpose of this space is to organize my knowledge in a way that is shareable and easily retrievable (check out the graph view!).
 
-# Welcome to my research space!
-[[Research Log]]
-[[Reading Log]]
+- I have a research log that holds my daily research endeavours; and also
+- A reading log for writing down my thoughts when I read research papers and articles.
+
+Stay tuned!

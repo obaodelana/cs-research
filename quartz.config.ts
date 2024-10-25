@@ -21,9 +21,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Roboto",
+        body: "Inconsolata",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -38,15 +38,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#202020", // Page background
+          lightgray: "#333333", // Borders
+          gray: "#c0c9ce", // Graph links
+          darkgray: "#c5b8a1", // Body text
+          dark: "#c5b8a1", // Header text
+          secondary: "#9e86c8", // Link Colour
+          tertiary: "rgb(81, 157, 92)", // Hover state
+          highlight: "rgba(255, 128, 0, 0.4)",
+          textHighlight: "rgba(255, 225, 0, 0.5)",
         },
       },
     },
