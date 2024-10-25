@@ -1,5 +1,5 @@
 ---
-title: README
+title: "README: Oba's Research Space"
 description: This website will have my research and reading logs. Stay tuned!
 date: 2024-10-24
 ---
