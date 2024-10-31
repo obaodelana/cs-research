@@ -1,0 +1,1 @@
+No research done this week 😅. Just attended the CRA session.
