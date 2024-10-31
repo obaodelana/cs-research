@@ -12,5 +12,4 @@ Stay tuned!
 
 - [[Week 5]]
 - [[Week 6]]
-*start of consistency era*
-- [[Week 7]]
+- [[Week 7]] (*start of consistency era*)
