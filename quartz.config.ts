@@ -46,7 +46,7 @@ const config: QuartzConfig = {
           secondary: "#9e86c8", // Link Colour
           tertiary: "rgb(81, 157, 92)", // Hover state
           highlight: "rgba(255, 128, 0, 0.4)",
-          textHighlight: "rgba(255, 225, 0, 0.5)",
+          textHighlight: "rgba(255, 225, 0, 0.25)",
         },
       },
     },

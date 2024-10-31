@@ -9,3 +9,6 @@ I'm currently researching on [[Neural Networks]]. The purpose of this space is t
 - A reading log for writing down my thoughts when I read research papers and articles.
 
 Stay tuned!
+
+[[Week 7]]
+[[Week 7]]
